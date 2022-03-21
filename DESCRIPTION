@@ -1,8 +1,8 @@
 Package: Group2Package
 Title: Simulates the Central Dogma of Molecular Biology
 Version: 0.0.0.9000
-Authors@R: 
-    person("Prince", "Adi", "Razia", "Yuan", "Ori")
+Authors: 
+    "Prince", "Adi", "Razia", "Yuan", "Ori"
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -11,3 +11,6 @@ RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)
 LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
