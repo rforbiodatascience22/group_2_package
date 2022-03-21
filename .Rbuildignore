@@ -9,3 +9,4 @@ DESCRIPTION
 ^Group2Package\.Rcheck$
 ^Group2Package.*\.tar\.gz$
 ^Group2Package.*\.tgz$
+test.R
