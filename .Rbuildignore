@@ -1,2 +1,11 @@
+group2package.Rproj
+DESCRIPTION
 ^mypkgname\.Rproj$
 ^\.Rproj\.user$
+^mypkgname\.Rcheck$
+^mypkgname.*\.tar\.gz$
+^mypkgname.*\.tgz$
+^LICENSE\.md$
+^Group2Package\.Rcheck$
+^Group2Package.*\.tar\.gz$
+^Group2Package.*\.tgz$
