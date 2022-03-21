@@ -2,8 +2,9 @@ Package: Group2Package
 Title: Simulates the Central Dogma of Molecular Biology
 Version: 0.0.0.9000
 Authors@R: 
-    person("Prince", "Adi", "Razia", "Yuan", "Ori")
-Description: What the package does (one paragraph).
+person("Oriade", "Simpson", "Adi", "Razia", "Yuan", "Prince", email = "s172084@dtu.dk", 
+role = c("classmate", "classmate", "classmate","classmate", "classmate")
+Description: This package does many things. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
