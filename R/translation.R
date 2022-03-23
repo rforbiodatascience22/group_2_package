@@ -1,4 +1,4 @@
-#' Title
+#' Translation
 #'
 #' @param codons
 #'
