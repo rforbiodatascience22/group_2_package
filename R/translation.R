@@ -1,8 +1,8 @@
 #' Translation
 #'
-#' @param codons translation codon
+#' @param codons codon input generated from codon_start
 #'
-#' @return protein
+#' @return protein returns protein, based on codon input
 #' @export
 #'
 translation <- function(codons){
