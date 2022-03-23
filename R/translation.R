@@ -1,8 +1,8 @@
 #' Translation
 #'
-#' @param codons
+#' @param codons translation codon
 #'
-#' @return
+#' @return protein
 #' @export
 #'
 #' @examples
