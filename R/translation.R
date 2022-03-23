@@ -5,7 +5,7 @@
 #' @return protein
 #' @export
 #'
-transcrition <- function(codons){
+translation <- function(codons){
   protein <- paste0(codon_table[codons], collapse = "")
   return(protein)
 }
