@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @param codons 
+#' @param codons
 #'
 #' @return
 #' @export
