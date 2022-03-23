@@ -1,11 +1,11 @@
 #' Plot number of amino acids in peptide
 #'
+#' @importFrom magrittr %>%
 #' @param peptide
 #'
 #' @return Graph of amino acid counts
 #' @export
 #'
-#' @importFrom magrittr %>%
 #inputs peptide string, and turns them into unique character strings
 aa_plot <- function(peptide){
   aa_output <- peptide %>%
