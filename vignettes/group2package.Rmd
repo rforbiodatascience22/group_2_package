@@ -1,0 +1,20 @@
+---
+title: "group2package"
+output: rmarkdown::pdf_document
+vignette: >
+  %\VignetteIndexEntry{group2package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+knitr::opts_chunk$set(eval = FALSE, include = FALSE)
+library(Group2Package)
+```
