@@ -1,0 +1,5 @@
+install.packages("usethis")
+gitcreds::gitcreds_set()
+git remote add origin https://github.com/rforbiodatascience22/group_2_package.git
+library(devtools)
+git remote add origin https://github.com/rforbiodatascience22/group_2_package.git

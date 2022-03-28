@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+mypkgname.Rcheck/
+mypkgname*.tar.gz
+mypkgname*.tgz
+Group2Package.Rcheck/
+Group2Package*.tar.gz
+Group2Package*.tgz
+test.R
+inst/doc

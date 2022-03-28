@@ -1,0 +1,5 @@
+install.packages('usethis')
+library(usethis)
+usethis::use_mit_license("Group 2")
+install.packages('devtools')
+install.packages('usethis')
