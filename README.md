@@ -28,6 +28,8 @@ argument `nucleotide_size`. **Example**:
 
 Generates an object `dna` with a `nucleotide_size` 50
 
+***
+
 ### Function 2: `TU_sub`
 
 `TU_sub` simulates the transcription process. The function replaces the
@@ -39,6 +41,8 @@ and effectively creates an translatable RNA strand. **Example**:
 Generates an object `rna` based on the output from
 `sample_with_replacement`.
 
+***
+
 ### Function 3: `codon_start`
 
 `codon_start` splits the `rna` object generated with `TU_sub` into
@@ -47,6 +51,8 @@ codons. **Example**:
     codons <- codon_start(rna = rna)
 
 Generates `codons` based on output from `TU_sub`.
+
+***
 
 ### Function 4: `translation`
 
@@ -58,6 +64,8 @@ polypeptide chain based on the output from `codon_start`. **Example**:
 
 Generates `protein` based on output from `TU_sub`.
 
+***
+
 ### Function 5: `aa_plot`
 
 `aa_plot` uses `ggplot2` to plot the counts of each amino acid residue
@@ -66,6 +74,8 @@ in the generated polypeptide chain. **Example**:
     aa_plot(peptide = protein)
 
 Generated plot is based on the output from `translation`.
+
+***
 
 **Simulating mutations**
 
