@@ -1,16 +1,21 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-**GitHub repository**
-<https://github.com/rforbiodatascience22/group_2_package>
+### GitHub repository
+
+The URL is : <https://github.com/rforbiodatascience22/group_2_package>
+
+***
 
 **Package description**
 
 The purpose of this package is to simulate the **Central Dogma of
-Molecular Biology**. That is, the flow of information from DNA -\> RNA
--\> Protein
+Molecular Biology**. To show the flow of information from DNA > RNA > Protein
 
-**Package usage (with examples)**
+
+***
+
+Package usage (with examples)
 
 **Codon Table**
 
